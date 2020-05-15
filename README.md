@@ -10,7 +10,7 @@ The goal is to implement a music recommendation system. It uses a dataset publis
 3. TODO
 
 # Documentation
-The project documentation is in the pdf file.
+The project documentation is in the pdf file: BDA_grpB_rapport.pdf
 
 # References
 [1] Sandy Ryza, Uri Laserson, Sean Owen, Josh Wills Advanced Analytics with Spark O'Reilly May 2017
