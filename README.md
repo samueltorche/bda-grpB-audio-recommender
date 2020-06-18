@@ -12,5 +12,16 @@ The goal is to implement a music recommendation system. It uses a dataset publis
 # Documentation
 The project documentation is in the pdf file: BDA_grpB_rapport.pdf
 
+# Content
+MBA_audioscrobbler.json contains the notebook for the first analysis question
+KMEANS-MUSIC-genre.json contains the notebook for the second analysis question
+????.json contains the notebook for the third analysis question
+download_data.sh script to download audioscrobbler data
+
+# Data download
+Execute script download_data.sh
+Take content of extracted folder profiledata_06-May-2005 (except readme) and put in data folder in zeppelin.
+Data was too big to be hosted on GitHub.
+
 # References
 [1] Sandy Ryza, Uri Laserson, Sean Owen, Josh Wills Advanced Analytics with Spark O'Reilly May 2017
